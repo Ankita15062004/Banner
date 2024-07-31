@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Boost Your Leads",
+      "description": "Harness AI for Effective Campaigns",
+      "cta": "Learn More",
+      "image": "/images/banner1.jpg",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+    },
+    {
+      "title": "Get High Quality Leads",
+      "description": "Harness AI for Effective Campaigns",
+      "cta": "Learn More",
+      "image": "/images/banner2.jpg",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+      "title": "Increase Your Reach",
+      "description": "Target Audience Effectively",
+      "cta": "Learn More",
+      "image": "/images/banner3.jpg",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+    },
+    {
+      "title": "Optimize Your Campaigns",
+      "description": "Get the Best Results",
+      "cta": "Learn More",
+      "image": "/images/banner4.jpg",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png"
+    }
+  ]

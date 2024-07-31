@@ -1,0 +1,22 @@
+.banner {
+    background-size: cover;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    color: white;
+  }
+  
+  .banner img {
+    max-width: 100px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .edit-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(255, 255, 255, 0.5);
+    border: none;
+    cursor: pointer;
+  }
